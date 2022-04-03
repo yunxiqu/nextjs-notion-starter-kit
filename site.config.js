@@ -15,10 +15,10 @@ export default {
   description: 'YunXiQu.com',
 
   // social usernames (optional)
-  weibo: '',
-  twitter: '',
-  github: '',
-  linkedin: '',
+  weibo: 'g',
+  twitter: 'g',
+  github: 'g',
+  linkedin: 'g',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
