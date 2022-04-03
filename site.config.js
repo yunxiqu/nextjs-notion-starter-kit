@@ -7,9 +7,9 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'YunXiQu.com1',
-  domain: 'YunXiQu.com2',
-  author: 'YunXiQu.com3',
+  name: 'YunXiQu.com',
+  domain: 'YunXiQu.com',
+  author: '<a href="http://beian.miit.gov.cn/" target="_blank">湘ICP备20014636号-1</a>',
 
   // open graph metadata (optional)
   description: 'YunXiQu.com',
