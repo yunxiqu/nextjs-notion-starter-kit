@@ -9,7 +9,7 @@ export default {
   // basic site info (required)
   name: 'YunXiQu.com',
   domain: 'YunXiQu.com',
-  author: 'YunXiQu.com';&nbsp;<a href="http://beian.miit.gov.cn/" target="_blank">湘ICP备20014636号-1</a>,
+  author: 'YunXiQu.com'&nbsp<a href="http://beian.miit.gov.cn/" target="_blank">湘ICP备20014636号-1</a>,
 
   // open graph metadata (optional)
   description: 'YunXiQu.com',
