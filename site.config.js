@@ -42,6 +42,4 @@ export default {
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
   pageUrlOverrides: null
-
-<a href="http://beian.miit.gov.cn/" target="_blank">湘ICP备20014636号-1</a>
 }
