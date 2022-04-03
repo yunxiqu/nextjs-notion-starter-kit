@@ -7,9 +7,9 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'YunXiQu.com',
-  domain: 'YunXiQu.com',
-  author: 'YunXiQu.com',
+  name: 'YunXiQu.com1',
+  domain: 'YunXiQu.com2',
+  author: 'YunXiQu.com3',
 
   // open graph metadata (optional)
   description: 'YunXiQu.com',
