@@ -12,7 +12,7 @@ export default {
   author: 'YunXiQu.com',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'YunXiQu.com',
 
   // social usernames (optional)
   twitter: 'twitter',
