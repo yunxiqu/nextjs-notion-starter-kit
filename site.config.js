@@ -15,7 +15,7 @@ export default {
   description: 'YunXiQu.com',
 
   // social usernames (optional)
-  twitter: ' '
+  twitter: ' ',
   github: ' ',
   linkedin: ' ',
 
